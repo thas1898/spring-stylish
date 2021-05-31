@@ -66,7 +66,7 @@
                 </div>
               </div>
               <div class="carousel-item">
-                <img height="400px" src="images/main.jpg" class="d-block w-100" alt="...">
+                <img height="400px" src="images/mains.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                   <h5>Spring Stylish</h5>
 
